@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/web-portfolio/static/css/main.a6955430.css",
-    "main.js": "/web-portfolio/static/js/main.25f3835b.js",
+    "main.js": "/web-portfolio/static/js/main.c8b71642.js",
     "static/media/hoverImage.png": "/web-portfolio/static/media/hoverImage.43a65663e13c48495044.png",
     "static/media/GIF-Api-Showdown.png": "/web-portfolio/static/media/GIF-Api-Showdown.9b10bbc654fea6827302.png",
+    "static/media/cv.pdf": "/web-portfolio/static/media/cv.031924603448a61841a2.pdf",
     "static/media/Cropped.png": "/web-portfolio/static/media/Cropped.0f33126aab385d29bb51.png",
-    "static/media/cv.pdf": "/web-portfolio/static/media/cv.ac36db1bae30f47aab09.pdf",
     "static/media/Simon-Game-Preview.png": "/web-portfolio/static/media/Simon-Game-Preview.b35b3f8163bf8eff9c28.png",
     "index.html": "/web-portfolio/index.html",
     "main.a6955430.css.map": "/web-portfolio/static/css/main.a6955430.css.map",
-    "main.25f3835b.js.map": "/web-portfolio/static/js/main.25f3835b.js.map"
+    "main.c8b71642.js.map": "/web-portfolio/static/js/main.c8b71642.js.map"
   },
   "entrypoints": [
     "static/css/main.a6955430.css",
-    "static/js/main.25f3835b.js"
+    "static/js/main.c8b71642.js"
   ]
 }
